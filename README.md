@@ -32,7 +32,6 @@
   <div align= "center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naahnoey&title_color=1fa0b1&text_color=000000"/>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naahnoey&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+    <a href="https://solved.ac/naahyinb"><img src="http://mazassumnida.wtf/api/generate_badge?boj=naahyinb"/></a>
   </div> 
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=naahyinb)](https://solved.ac/naahyinb)
